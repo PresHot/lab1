@@ -1,0 +1,4 @@
+D:\ООПСЗИ лаб\Crinj\Task1\Debug\Task1.exe
+D:\ООПСЗИ лаб\Crinj\Task1\Debug\Task1.pdb
+C:\Users\StOS\Desktop\Lab1-main\Task1\Debug\Task1.exe
+C:\Users\StOS\Desktop\Lab1-main\Task1\Debug\Task1.pdb
